@@ -9,7 +9,7 @@ Como executar calculadora.py
 sudo apt update
 sudo apt install python3
 
-python3 /home/guifi/modulo1/python/calculadora.py
+python3 calculadora.py
 
 - Após é só salvar
 - Depois utilizar os comandos:
