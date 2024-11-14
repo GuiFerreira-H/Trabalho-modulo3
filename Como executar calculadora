@@ -17,5 +17,5 @@ python3 calculadora.py
 chmod +x calculadora.sh
 chmod 744 calculadora.sh
 
-- Agora é usar: ./calculadora.sh
+- Agora é só usar: ./calculadora.sh
 - E a calculadora estará funcionando!
