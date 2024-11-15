@@ -1,7 +1,7 @@
 # Trabalho-modulo3
  Trabalho do módulo 3
 
-É um projeto de simples de uma calculadora para ser executada no python pelo linux. 
+É um projeto simples de uma calculadora para ser executada no python pelo linux. 
 
 Como executar calculadora.py
 - Abra ubuntu
