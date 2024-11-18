@@ -1,7 +1,7 @@
 # **Calculadora**
  
 É um projeto de calculadora simples contendo apenas as 4 operações básicas para ser utilizada no python pelo ubuntu.
-Ela vai solicitar do usuário os números e a operação desejada e lhe entrega a resposta.
+Ela vai solicitar do usuário os números e a operação desejada e lhe entrega a resposta com base no entregado a ela.
 
 
 
