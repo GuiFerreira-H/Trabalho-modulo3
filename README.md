@@ -1,7 +1,7 @@
 # **Calculadora**
  
 
-## É um projeto de calculadora simples contendo apenas as 4 operações básicas e para ser utilizada no python pelo ubuntu.
+## É um projeto de calculadora simples contendo apenas as 4 operações básicas para ser utilizada no python pelo ubuntu.
 
 
 
